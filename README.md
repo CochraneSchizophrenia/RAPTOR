@@ -7,6 +7,10 @@ There are two .mp4 files with screencasts that demonstrate using RAPTOR and carr
 
 This is a proof of concept, so please feel free to give any feedback or to ask questions about the implementation/ problems that arise when using RAPTOR!
 
+Please download the executable .jar file from the 'releases' tab, or from this link: https://github.com/CochraneSchizophrenia/RAPTOR/releases
+
+This is a Java application, written and tested in an Java 1.7 environment. 
+
 for the code you can also visit
 
 https://github.com/L-ENA/ThesisCode
