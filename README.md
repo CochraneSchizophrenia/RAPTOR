@@ -1,7 +1,7 @@
 # RAPTOR
 RAPTOR is a proof of concept. It shows that all data can be extracted from batches of ReviewManager files. Partly, it also shows that these data can be cleaned. Its output is a XML file which can be queried e.g. in Excel.
 
-A newer, lightweight version of RAPTOR which does not rely on Java and extracts data from diagnostic reviews is available in the list of files above: DR-RAPTOR (Diagnostic Review - RevmAn Parsing TOol for Reviewers). Its here: https://colab.research.google.com/github/CochraneSchizophrenia/RAPTOR/blob/master/Diagnostic_RAPTOR.ipynb 
+A newer, lightweight version of RAPTOR which does not rely on Java and extracts data from diagnostic reviews is available in the list of files above: DR-RAPTOR (Diagnostic Review - RevmAn Parsing TOol for Reviewers). Its here: https://colab.research.google.com/github/CochraneSchizophrenia/RAPTOR/blob/master/Diagnostic_RAPTOR.ipynb and alternatively a Python script for running the code offline is given in the repository above.
 
 For the old RAPTOR which looks at interventional review's data there are currently some issues for people who use newer versions of Java. This application works on Java 1.7. If you have any problems, please contact lena.schmidt@bristol.ac.uk
 
